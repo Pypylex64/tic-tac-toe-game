@@ -1,4 +1,4 @@
-# Реализация классической игры "TIC_TAC_TOE" черех python
+## Реализация классической игры "TIC_TAC_TOE" черех python
 ![alt text](https://github.com/Pypylex64/tic-tac-toe-minimax/blob/main/tic-tac-toe.gif)
 ## Особенности:
 1. Стандартная библиотека Python
