@@ -3,8 +3,10 @@
 ## Особенности:
 1. Стандартная библиотека Python
 2. Алгоритм NegaMax + Alpha Beta Pruning
-## В планах:
-- [ ] Уменьшить силу AI для игры с человеком
-- [ ] Реализовать Temporal Difference Learning
-- [ ] Реализовать Q Learning
-- [ ] Реализовать Genetic Algorithms
+## В планах реализовать:
+- [ ] Регулирование силы AI для игры с человеком
+- [ ] Режим player vs player
+- [ ] Режим network player vs player
+- [ ] Алгоритм Temporal Difference Learning
+- [ ] Алгоритм Q Learning
+- [ ] Алгоритм Genetic Algorithms
